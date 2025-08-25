@@ -10,3 +10,10 @@ According to the report completed by Sua, the sales manager, there aren't any ob
 # Deliverable 2 - Root cause analysis and Management Recommendations
 1) Root cause analysis—What questions would you ask to determine the root cause of this problem? Write down each question and a fictional response of one of the Stakeholders to demonstrate your understanding of the 5 Whys root-cause analysis method. Use Problem Identification and Stakeholder Management – Workbook
 2) Now, write down your recommendation to the Northwind Trading management team in the Problem Identification and Stakeholder Management – Workbook. Remember that all your opinions and recommendations must be backed by hard facts, so please quote the results of your analysis in your recommendations.
+# Deliverable 3 - User Role Analysis
+Identify the users of the online store and complete the user role analysis using the Problem Identification and Stakeholder Management 
+# Deliverable 4 - Stakeholder Analysis and Stakeholder Mapping on the Power - Interest Grid
+Identify the project stakeholders and complete stakeholder analysis, mapping, and prioritization using the Problem Identification and Stakeholder Management – Workbook  provided. 
+# Deliverable 5 - Stakeholders’ RACI Matrix
+Consult the high-level project plan to improve the website and allocate each task to the stakeholders using the RACI Matrix
+
